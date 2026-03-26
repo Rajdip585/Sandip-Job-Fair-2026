@@ -1618,5 +1618,734 @@
         "classroom": "F-18",
         "role": "Coder",
         "qualification": "D. Pharma / B. Pharm/ MBA"
+    },
+    {
+        "name": "Ltsv Pvt. Ltd, Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "SP Library (Admin Building)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI , Diploma/B.E and any graduation"
+    },
+    {
+        "name": "Powerinst Electromagnet Pvt Ltd., Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Power System Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE Electrical Engineering"
+    },
+    {
+        "name": "Shri Aashapura Rubber Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Computer Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/ BE Mechanical Engineering"
+    },
+    {
+        "name": "Vertex Precise Engg Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "TOM LAB- ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma ME/EE"
+    },
+    {
+        "name": "Mahindra & Mahindra Tools & Die Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Admin Office Global School",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE Mechanical Engineering"
+    },
+    {
+        "name": "MSL Driveline Systems Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Refrigeration & Air Conditioning Lab ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI/Diploma/BE Mechanical Engineering"
+    },
+    {
+        "name": "Chetana Engineering Pvt.Ltd.",
+        "domain": "-",
+        "venue": "Ground Floor-SP",
+        "floor": "Record Room",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/Degree"
+    },
+    {
+        "name": "CTR Manufacturing India Pvt Ltd., Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "HOD Cabin (EE)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/BE ME/EE/E & Tc"
+    },
+    {
+        "name": "Dhanraj Switchgear Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Dept Library EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/ BE ME/EE/B. Com"
+    },
+    {
+        "name": "Prime Graphite india Pvt ltd, Nashik Ashgraph Technology",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "CAD Lab (CE)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE"
+    },
+    {
+        "name": "Mahindra CIE ,Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "HOD Cabin (ME)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE"
+    },
+    {
+        "name": "Epiroc Mining India Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Drawing Hall CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE"
+    },
+    {
+        "name": "Mungi Engineering Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Admin Building",
+        "floor": "Store Admin",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/BE ME/EE"
+    },
+    {
+        "name": "MEMCO Engg. Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Machine Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/BE ME/EE"
+    },
+    {
+        "name": "MOTHERSONS PVT LTD , NASHIK",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Hydraulics Lab CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI/Diploma/BE Mechanical / Electrical Engineering"
+    },
+    {
+        "name": "Bosch Ltd, Nashik",
+        "domain": "-",
+        "venue": "3rd Floor",
+        "floor": "Seminar Hall",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI/Diploma/BE ME/EE/BSc/BA/Bcom"
+    },
+    {
+        "name": "Krishna Builders and developers Pvt ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop Carpentry Shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE Civil Engineering"
+    },
+    {
+        "name": "Shreeniwas Manresource Pvt Ltd, Pune",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Conference hall (EE)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "Slidewell Meilleur Pvt Ltd.,Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "HOD Cabin (CE)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE"
+    },
+    {
+        "name": "CEAT LTD , NASHIK",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Fluid Mechanics ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE"
+    },
+    {
+        "name": "Harsh Construction Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop welding shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE Civil Engineering"
+    },
+    {
+        "name": "TATA Motors Ltd, Pune",
+        "domain": "-",
+        "venue": "Second Floor",
+        "floor": "HOD CO Cabin",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma-ME/EE"
+    },
+    {
+        "name": "Bajaj ltd , Pune",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME- Record room",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma-ME/EE"
+    },
+    {
+        "name": "Virtuoso Opto electronics ltd, Nashik",
+        "domain": "-",
+        "venue": "Second Floor",
+        "floor": "HOD Conference Hall Information Technology",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/BE-ME/EE"
+    },
+    {
+        "name": "Kirloskar Pnumatics Ltd , Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Geotechnical Engg. CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma-ME/EE, BSc"
+    },
+    {
+        "name": "MG Electrica Pvt Ltd .Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Concrete Technology CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE/E&Tc"
+    },
+    {
+        "name": "Chirayu Consultancy Services Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Mechanics of Structure CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma in civil Engineering /BE Civil"
+    },
+    {
+        "name": "HIND RECTIFIER Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "IFB Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/BE-ME/EE/E&Tc"
+    },
+    {
+        "name": "TURING ESTLAND PVT LTD, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "HOD Cabin (TE)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "B E- EE/Automation/ MBA"
+    },
+    {
+        "name": "EPL LTD, WADA PALGHAR",
+        "domain": "-",
+        "venue": "Admin Building",
+        "floor": "CLASSROOM 115-Admin Building",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/Diploma/BE-ME/EE"
+    },
+    {
+        "name": "FAB INDUSTRIES PVT LTD NASHIK",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Civil CAD Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma/BE-ME/EE/E&Tc"
+    },
+    {
+        "name": "UDYOG VIKAS Pvt Ltd, Mumbai",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "ME CAD Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI, Diploma/BE-ME/EE/E & Tc"
+    },
+    {
+        "name": "FORTUNA ENGG PVT LTD, NASHIK",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Highway Engg Lab ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "INNOVA RUBBER Pvt Ltd, NASHIK",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Metrology & Measurements Lab ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "BE- ME/EE"
+    },
+    {
+        "name": "GANESH ELECTRICAL PVT LTD, NASHIK",
+        "domain": "-",
+        "venue": "Second Floor",
+        "floor": "SP Library (Admin Building)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/B.E-ME/EE"
+    },
+    {
+        "name": "JYOTI STRUCTURE PVT LTD, NASHIK",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Basic Electronics Lab TE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "BLUE STAR INDIA Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Store room EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI , Diploma/Degree EE, Mechanical Engineering\n and any graduation"
+    },
+    {
+        "name": "Green Con Solution pvt ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Basic Electrical Engg. Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree EE Engineering and any graduation"
+    },
+    {
+        "name": "K. V. Electricals, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Measurement Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree EE"
+    },
+    {
+        "name": "NASH Robotics Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "HOD Forensic Science",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree ME/EE"
+    },
+    {
+        "name": "Dream Infra Pvt ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop machine shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/BE/CIVIL, any graduation"
+    },
+    {
+        "name": "Shubhada Polymer Products Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop CNC Shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Degree, Diploma, MBA HR, Any Graduate"
+    },
+    {
+        "name": "Lucy Electric Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop Automobile shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "KOSO India PVT. LTD. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "HOD APS Cabin APS",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, MBA HR, Any Graduate"
+    },
+    {
+        "name": "Patco Precision Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Sheet metal Shop",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "Shah Auto Industries Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "CO Conference Hall CO",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "MARKEN HEALTHTECH LTD, NASHIK",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Conference hall (ME)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "Emitech Technologies India Pvt.Ltd. Pune",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "APS Conference Hall APS",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+    },
+    {
+        "name": "MACRON LOGI Services Pvt.Ltd. Mumbai",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "HOD CO Cabin CO",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI/Diploma/BE-all Stream any graduate"
+    },
+    {
+        "name": "Solar Intern Pvt Ltd. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "SP Library (Admin Building)",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree EE"
+    },
+    {
+        "name": "TDK (EPCOS) Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "STORE CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI , Diploma/Degree ME/EE"
+    },
+    {
+        "name": "Ujjwal Hyundai Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Dept Library CE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Any Graduate, Degree, ITI, Diploma"
+    },
+    {
+        "name": "Panchal Engineers India Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Digital Techniques Lab TE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+    },
+    {
+        "name": "Creative Electronics Pvt Ltd ,Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Network Internet Lab IF",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+    },
+    {
+        "name": "Abhi Industries Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Software Testing Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Shivay Engineering Pvt Ltd, nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Microprocessor Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Locus Systems Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Network Internet Lab CO",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Shivkrupa Industries Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Digital Techniques Lab TE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Shrishailam Automation Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "Digital Techniques Lab TE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "MSKH Seating India Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Programming Lab IF",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Kranti Industries Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "FS-Lab-213",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Shweta Print Pack Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "FS-Lab-212",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Sanyog Rubber Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "FS-Lab-209",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, , Any Graduate"
+    },
+    {
+        "name": "Dynamic Prestress India Pvt. Ltd., Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Programming Lab CO",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+    },
+    {
+        "name": "Veevaa Tools Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "CO Store CO",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree-ME/EE, Any Graduate"
+    },
+    {
+        "name": "Spack Automotives Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Multimedia Lab -314",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Ennergy Experts Technologies Pvt. Ltd. Pune",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Drawing Hall ME",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "MIDC SDC Nashik eduspark International Pvt. Ltd.",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "CLASSROOM 107 EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, food processing course, RAC Course, B.com, M.\n com, MBA Finance, Tally Course, Any Graduate, Bsc. Agri,"
+    },
+    {
+        "name": "M D Auto Components Pvt.Ltd",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Language Lab APS",
+        "classroom": "-",
+        "role": "",
+        "qualification": "BSC, Degree, Diploma"
+    },
+    {
+        "name": "Brahma Engg. Pvt Ltd , Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "ME Workshop Toyota Lab",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma, BE Civil Engg"
+    },
+    {
+        "name": "SPARK SOLUTIONS pvt ltd, Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Chemistry Lab APS",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/Diploma, Degree- ME/EE-, ITI"
+    },
+    {
+        "name": "Saiprasad Industrial Services",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "Physics Lab APS",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma, Degree, Any Graduate"
+    },
+    {
+        "name": "Huf India Pvt,Ltd Pune",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "HOD Mathematics IF",
+        "classroom": "-",
+        "role": "",
+        "qualification": "10/12/ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "Siemen Ltd, Ch, Sambhaji Nagar",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Board Room Admin",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree ME/EE"
+    },
+    {
+        "name": "ABHIJEET TECHNOPLAST Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "Multimedia Lab -315",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+    },
+    {
+        "name": "INDIAN TOOL - BIRLA PRECISION Ltd, NASHIK",
+        "domain": "-",
+        "venue": "Ground Floor",
+        "floor": "SOS-Store- I st Floor -SP",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, B.E-ME/EE"
+    },
+    {
+        "name": "ARB Industries Pvt. Ltd. Nashik",
+        "domain": "-",
+        "venue": "2nd Floor",
+        "floor": "HOD IF Cabin",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+    },
+    {
+        "name": "SKF India Pvt. Ltd. Pune",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "217- Admin-SP",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma ME/EE, ITI"
+    },
+    {
+        "name": "Dashtek Engineers, Nashik",
+        "domain": "-",
+        "venue": "1st Floor",
+        "floor": "219- Admin-SP",
+        "classroom": "-",
+        "role": "",
+        "qualification": "Diploma, ITI"
+    },
+    {
+        "name": "EKAM Venture Pvt Ltd, Nashik",
+        "domain": "-",
+        "venue": "Ground Floor-SP",
+        "floor": "Measurement Lab EE",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI,Diploma /B.E-Civil"
+    },
+    {
+        "name": "Indusculp Autocomp Pvt'Ltd.",
+        "domain": "-",
+        "venue": "Ground Floor-SP",
+        "floor": "Record Room",
+        "classroom": "-",
+        "role": "",
+        "qualification": "ITI/Diploma/Degree"
     }
 ]
