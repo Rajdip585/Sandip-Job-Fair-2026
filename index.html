@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUN Job Fair | Sandeep University</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+    <style>
+        .sun-theme {
+            background: linear-gradient(135deg, #0f172a 0%, #9f1239 100%);
+        }
+
+        .glass-nav {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(8px);
+        }
+
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 text-slate-900 pb-10">
+
+    <header class="sun-theme text-white py-10 px-6 text-center rounded-b-[40px] shadow-xl">
+        <h1 class="text-2xl font-black tracking-tight italic">SANDIP UNIVERSITY</h1>
+        <p class="text-rose-200 text-xs font-bold tracking-[0.2em] mt-1">PLACEMENT DRIVE 2026</p>
+    </header>
+
+    <div class="sticky top-0 z-50 px-4 -mt-6">
+        <div class="max-w-md mx-auto glass-nav rounded-2xl shadow-lg border border-white/50 p-4 space-y-3">
+            <div class="relative">
+                <i data-lucide="search" class="absolute left-3 top-3.5 w-5 h-5 text-slate-400"></i>
+                <input type="text" id="searchInput" placeholder="Search Company or Role..."
+                    class="w-full pl-10 pr-4 py-3.5 rounded-xl bg-slate-100 border-none focus:ring-2 focus:ring-rose-500 outline-none text-sm font-medium">
+            </div>
+            <div class="flex gap-2 overflow-x-auto no-scrollbar" id="filterContainer"></div>
+        </div>
+    </div>
+
+    <main class="max-w-md mx-auto p-4 mt-2">
+        <div id="loader" class="text-center py-10">
+            <div class="animate-spin rounded-full h-10 w-10 border-b-2 border-rose-600 mx-auto"></div>
+        </div>
+        <div id="companyList" class="grid gap-4"></div>
+    </main>
+
+    <script>
+        const SCRIPT_URL = "./software.json"; // PASTE YOUR URL HERE
+        let allCompanies = [];
+        let currentFilter = 'All';
+
+        // Initial Data Fetch
+        const EXCEL_URL = "./data.xlsx"; // Ensure your file is named data.xlsx in the same folder
+
+        async function loadData() {
+            try {
+                const res = await fetch(SCRIPT_URL);
+                allCompanies = await res.json();
+                initUI();
+            } catch (e) {
+                console.error("Fetch error:", e);
+                // Fallback to dummy data for testing if script isn't linked
+                allCompanies = [];
+                initUI();
+            }
+            document.getElementById('loader').classList.add('hidden');
+        }
+
+        function initUI() {
+            renderFilters();
+            renderCards(allCompanies);
+        }
+
+        function renderFilters() {
+            const domains = ['All', ...new Set(allCompanies.map(c => c.domain))];
+            const container = document.getElementById('filterContainer');
+            container.innerHTML = domains.map(d => `
+                <button onclick="setFilter('${d}')" class="filter-chip px-5 py-2 rounded-full text-xs font-bold border whitespace-nowrap transition-all
+                    ${currentFilter === d ? 'bg-slate-900 text-white border-slate-900' : 'bg-white text-slate-500 border-slate-200'}">
+                    ${d}
+                </button>
+            `).join('');
+        }
+
+        function renderCards(data) {
+            const list = document.getElementById('companyList');
+            list.innerHTML = data.map(c => `
+                <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-100 relative overflow-hidden active:scale-[0.98] transition-transform">
+                    <div class="absolute top-0 right-0 p-4">
+                        <span class="bg-rose-50 text-rose-700 text-[10px] font-black px-2 py-1 rounded-lg uppercase tracking-tighter">${c.domain}</span>
+                    </div>
+                    
+                    <h2 class="text-xl font-black text-slate-800 mb-1">${c.name}</h2>
+                    <p class="text-sm font-bold text-rose-600 flex items-center gap-1 mb-4">
+                        <i data-lucide="map-pin" class="w-3.5 h-3.5"></i> ${c.venue} • ${c.floor} • ${c.classroom}
+                    </p>
+
+                    <div class="grid grid-cols-2 gap-3 mb-5">
+                        <div class="bg-slate-50 p-3 rounded-2xl">
+                            <p class="text-[9px] uppercase font-bold text-slate-400">Position</p>
+                            <p class="text-xs font-bold text-slate-700">${c.role}</p>
+                        </div>
+                        <div class="bg-slate-50 p-3 rounded-2xl">
+                            <p class="text-[9px] uppercase font-bold text-slate-400">Eligibility</p>
+                            <p class="text-xs font-bold text-slate-700">${c.qualification}</p>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            lucide.createIcons();
+        }
+
+        // Search & Filter Logic
+        function setFilter(domain) {
+            currentFilter = domain;
+            renderFilters();
+            applyAll();
+        }
+
+        document.getElementById('searchInput').addEventListener('input', applyAll);
+
+        function applyAll() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allCompanies.filter(c => {
+                const matchesSearch = c.name.toLowerCase().includes(query) || c.role.toLowerCase().includes(query);
+                const matchesDomain = currentFilter === 'All' || c.domain === currentFilter;
+                return matchesSearch && matchesDomain;
+            });
+            renderCards(filtered);
+        }
+
+        window.onload = loadData;
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,929 @@
+[
+    {
+        "name": "Incredible Digital Solutions, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Manasvi Infotech, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL03",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Nextin Solutions, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "YSM Infosolution",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG01",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Nakshatra Technologies",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Quantify Data Solutions, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG06",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Profound Edutech",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG06",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Electrosoft Solutions, Pune",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Success IT Solution",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "SunFibo Technology",
+        "domain": "IT",
+        "venue": "SITRC , \"B\" Building",
+        "floor": "(Ground Floor)",
+        "classroom": "BG11",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Streamline Tech, Pune",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG03",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Altrust AI",
+        "domain": "IT / AI",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG10",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Gen Culture AI",
+        "domain": "IT/ AI",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG10",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Planet Eye Pharm AI",
+        "domain": "IT /AI",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG10",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Vaidya Techno Serve",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG10",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "e Smart Solution",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CG10",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Cubed Automation",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF01",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Paarsh Infotech",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Skill Development Centre, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Caliber Infotech, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF08",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "V Group",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF09",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "EuroCore Technologies PVT, Pune",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF12",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "PayLogic",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(First Floor)",
+        "classroom": "CF12",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "White Bond Associates",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "LazyDeveloper",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "TechnoCraft PVT",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Softsilicon Infotech",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL05",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Lumniverse Solutions, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL05",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Imarticus Learning Pune",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "(Basement)",
+        "classroom": "CL07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Nexonica Solution",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(First Floor)",
+        "classroom": "DF01",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Visual IT",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(First Floor)",
+        "classroom": "DF01",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Bits and Bytes, Netleap",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(First Floor)",
+        "classroom": "DF02-B",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Softcrowd Technologies",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(First Floor)",
+        "classroom": "DF04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Sumago Infotech",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(First Floor)",
+        "classroom": "DF05",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Techentra",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DG06",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Capoasis",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DG06",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Data Software Analysis",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DG05",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Ideal Infotech",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DG05",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "IPeople InfoSystems",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DG08",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Intern Choice",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DL01",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "QuasarCybertech, Nashik",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Team Talent Acquisition",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Blaze Media Services",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building - Mech",
+        "floor": "(Ground Floor)",
+        "classroom": "DL04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "VN Software pvt Ltd, Nashik",
+        "domain": "IT/MBA",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL03",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Drizzle IT",
+        "domain": "IT",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "WNS",
+        "domain": "IT/MBA",
+        "venue": "SITRC , \"E\" Building",
+        "floor": "Second Floor",
+        "classroom": "ES02",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Combat Solutions Pvt.Ltd, Nashik",
+        "domain": "IT/AI/MBA",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Pointer IT Solutions",
+        "domain": "IT/AI/MBA",
+        "venue": "SITRC , \" A\" Building MCA",
+        "floor": "(Basement)",
+        "classroom": "AL04",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Aveniaa Pvt. Ltd, Pune",
+        "domain": "IT",
+        "venue": "SITRC , \"D\" Building",
+        "floor": "First Floor",
+        "classroom": "Automation Faculty Room",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Sansmit Enterprise Pvt. Ltd",
+        "domain": "IT",
+        "venue": "SITRC , \"E\" Building",
+        "floor": "Second Floor",
+        "classroom": "ES07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "Madweb Technologies Pvt. Ltd.",
+        "domain": "IT",
+        "venue": "SITRC , \"E\" Building",
+        "floor": "Second Floor",
+        "classroom": "ES07",
+        "role": "Software Developer",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "IT Vedant",
+        "domain": "IT",
+        "venue": "SITRC , \"E\" Building",
+        "floor": "Second Floor",
+        "classroom": "ES09",
+        "role": "Software Developer/ Non-IT",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "ApMoSys Technologies",
+        "domain": "IT",
+        "venue": "SITRC , \"C\" Building",
+        "floor": "Ground Floor",
+        "classroom": "CG09",
+        "role": "Software Testing/ Development",
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+    },
+    {
+        "name": "JP Enterprises",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "NSS Room",
+        "classroom": "C203",
+        "role": "GET/Trainee Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Indus Tower",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Refrigreration & Air Conditioning",
+        "classroom": "C204",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Legrand sinnar plant",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Dynamics of Machines Lab",
+        "classroom": "C205",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Shree Ekvira Manufacturing",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Heat Transfer Lab",
+        "classroom": "C206",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Design Tech",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Theory of Machines Lab",
+        "classroom": "D201",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Tirumala Infotech ( JBL )",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Board Room (Hod Mech)",
+        "classroom": "D208B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Bajaj Sons",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Industrial Fluid Power Lab",
+        "classroom": "D210",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Purchase House",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Skill Development Lab",
+        "classroom": "D212",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Bajaj Auto",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Project Lab",
+        "classroom": "C207",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Joise-O-Mechanical Engg. Pvt. Ltd",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Thermodynamics Lab",
+        "classroom": "D104",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Samtech Pvt. Ltd",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Internal Combustion Lab",
+        "classroom": "D105",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical/ITI (All field)"
+    },
+    {
+        "name": "Reliable Technocraft",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Turbo Machine Lab",
+        "classroom": "D106",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Nilraj Engineering",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Fluid Machine Lab",
+        "classroom": "D107",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Vijay Rolling industries",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Workshop Cabin",
+        "classroom": "D111",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "SK Engineering",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Shelke Sir Cabin",
+        "classroom": "D208C",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Maruti Hydraulics Ltd.",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Seminar Hall (Mech)",
+        "classroom": "D209",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical/Sales Manager (Exp- 6 yrs)/ ITI\n (All field)"
+    },
+    {
+        "name": "Sudhir Fasteners",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Side Cabin",
+        "classroom": "D208C",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Dream Group",
+        "domain": "Manufacturing",
+        "venue": "SIEMFirst Floor",
+        "floor": "Engineering Metallurgy Lab",
+        "classroom": "D204",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Invensys CAD",
+        "domain": "Design",
+        "venue": "SIEM Ground Floor",
+        "floor": "Dean Acadamics Cabin",
+        "classroom": "C108",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Sterlite Industries",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "International Affairs Cell",
+        "classroom": "A211 A",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "SKF India Pvt LTd",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "International Affairs Cell",
+        "classroom": "A211 B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "PDRL",
+        "domain": "Aerospace",
+        "venue": "SIEM Second Floor",
+        "floor": "International Affairs Cell",
+        "classroom": "A211 C",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Aerospace"
+    },
+    {
+        "name": "Avdhoot Heat Treat Pvt LTD",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "International Affairs Cell",
+        "classroom": "A211 D",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "WRS Energy",
+        "domain": "Solar Electric",
+        "venue": "SIEM Second Floor",
+        "floor": "Civil Seminar Hall",
+        "classroom": "A210",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "SaraTech Engineers",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Internet Lab",
+        "classroom": "C303",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Atharva Moulds",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp Software lab",
+        "classroom": "B312",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Shri Balaji Engineering",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp Seminar Hall",
+        "classroom": "B309",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Fukoku India Pvt Ltd",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp Programming Lab",
+        "classroom": "B303",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "HD BIM SERVICES",
+        "domain": "Service",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp hardware Lab",
+        "classroom": "B310",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical / Civil"
+    },
+    {
+        "name": "VIP",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Electrical Classroom",
+        "classroom": "B104",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Mechanical/Electrical"
+    },
+    {
+        "name": "Advent Engineering",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Basic Electronics Lab",
+        "classroom": "B105",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Mechanical/Electrical"
+    },
+    {
+        "name": "Saptshrungi Cold Retreads",
+        "domain": "Service",
+        "venue": "SIEM Ground Floor",
+        "floor": "Switchgear & PLC Lab",
+        "classroom": "B107",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Vasundhara Entreprises",
+        "domain": "Service",
+        "venue": "SIEM Ground Floor",
+        "floor": "Analog & Digital & Network Lab",
+        "classroom": "B110",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Nashik Engg Cluster",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Dr.Swati Gade R&D Lab",
+        "classroom": "C101",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Namatronix, Satpur, Nashik",
+        "domain": "Manufacturing",
+        "venue": "SIEM Basement Lab",
+        "floor": "Electrical Machine Lab",
+        "classroom": "B001",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Viren Technology",
+        "domain": "Telecom Service",
+        "venue": "SIEM Ground Floor",
+        "floor": "Electrical HOD Board Room",
+        "classroom": "B111B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Navnath Electricals",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Measurement & PQ Lab",
+        "classroom": "B106",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Agrawal Industries",
+        "domain": "Manufacturing",
+        "venue": "SIEM Ground Floor",
+        "floor": "Counselling room",
+        "classroom": "C110",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Zekko Power",
+        "domain": "Manufacturing &\n Service",
+        "venue": "SIEM Ground Floor",
+        "floor": "Principal Board Room",
+        "classroom": "Principal Board Room",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Mansa Automation, Nashik",
+        "domain": "Manufacturing &\n Service",
+        "venue": "SIEM Basement Lab",
+        "floor": "High Voltage Lab",
+        "classroom": "B004",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electrical"
+    },
+    {
+        "name": "Ronch Polymers",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Conference Room (HOD EnTC)",
+        "classroom": "B212B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Gandhi Automations Private Limited",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "VLSI Design Lab",
+        "classroom": "B211",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "IMS ENTERPRISES",
+        "domain": "Services",
+        "venue": "SIEM First Floor",
+        "floor": "Basic Electronics Lab",
+        "classroom": "B210",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Unnati Engineers",
+        "domain": "Manufacturing",
+        "venue": "SIEM First Floor",
+        "floor": "Communication Lab",
+        "classroom": "B208",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Aradhya Electonics Pvt Ltd",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "Signal Processing Lab",
+        "classroom": "B209",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Sky Circuit Nashik",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "OFC & Microwave Lab",
+        "classroom": "B207",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Aureole Pharma Tech Sinner",
+        "domain": "Automation",
+        "venue": "SIEM First Floor",
+        "floor": "Electronics Device & Circuit Lab",
+        "classroom": "B206",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Mirayantra",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "Electronics Design & PCB Lab",
+        "classroom": "B205",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Aeroasia Technologies Pvt Ltd",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "Digital Switching Lab",
+        "classroom": "C201",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "B.E /B.Tech E & TC/Electrical"
+    },
+    {
+        "name": "Electroarc engineering solution",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "Boys Common Room",
+        "classroom": "C208",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "B.E /B.Tech E & TC/Electrical"
+    }
+]
