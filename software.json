@@ -925,5 +925,221 @@
         "classroom": "C208",
         "role": "GET/Trainee\n Engineer",
         "qualification": "B.E /B.Tech E & TC/Electrical"
+    },
+    {
+        "name": "Precison Instrumentation and Services Pvt Ltd",
+        "domain": "Core Electronics",
+        "venue": "SIEM First Floor",
+        "floor": "Class Room TE",
+        "classroom": "B203",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "B.E /B.Tech E & TC/Electrical"
+    },
+    {
+        "name": "Mec turing",
+        "domain": "Digital Marketing/ Content Creator",
+        "venue": "SIEM First Floor",
+        "floor": "Class Room SE",
+        "classroom": "B204",
+        "role": "GET/Trainee Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Creation Interior Contractors, Nashik",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Concreate Technology Lab",
+        "classroom": "A012",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Total Designers Home, Nashik",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Civil Classroom",
+        "classroom": "A009",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "The Nisarga Consultancy, Nashik",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Fluid Mechanics",
+        "classroom": "A004",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Pawar Patkar Constructions Pvt Ltd.",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Transportation Lab",
+        "classroom": "A005",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Ellora Engineering Procurement Construction (EPC) Pvt Ltd",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Geotech Lab",
+        "classroom": "A002",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Planet Eye Infra AI",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Strength of Material Lab",
+        "classroom": "A001",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Ultra Tech Cement Ltd, Nashik",
+        "domain": "CIVIL",
+        "venue": "SIEM Basement Floor",
+        "floor": "Engineering Mechanics Lab",
+        "classroom": "A013",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "ATAL REALTECH",
+        "domain": "CIVIL",
+        "venue": "SIEM Ground Floor",
+        "floor": "Enviromental Engineering",
+        "classroom": "A112",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Rehabilitation Engineers",
+        "domain": "Civil",
+        "venue": "SIEM Basement Floor",
+        "floor": "NPTEL Cell",
+        "classroom": "A015",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Unity Infra",
+        "domain": "Civil",
+        "venue": "SIEM Basement Floor",
+        "floor": "Conference Room (HOD Civil)",
+        "classroom": "A010B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "ABL Infrastructures",
+        "domain": "Civil",
+        "venue": "SIEM Basement Floor",
+        "floor": "SURVEY LAB",
+        "classroom": "A006",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Telge Projects",
+        "domain": "Civil",
+        "venue": "SIEM Basement Floor",
+        "floor": "Strength of Material Lab",
+        "classroom": "A001",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Vakhare Associates/ D.D. Architechts",
+        "domain": "Civil",
+        "venue": "SIEM Basement Floor",
+        "floor": "Civil Staff Room",
+        "classroom": "A003",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Karwate & Vakhare Associates",
+        "domain": "Civil -Valuation",
+        "venue": "SIEM Second Floor",
+        "floor": "Hardware Lab",
+        "classroom": "B370",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Civil"
+    },
+    {
+        "name": "Nash Robotics,Nashik",
+        "domain": "Automation",
+        "venue": "SIEM Second Floor",
+        "floor": "Conference Room (HOD Comp)",
+        "classroom": "B311B",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech A & R/ Eletronics/ E & TC"
+    },
+    {
+        "name": "S. B. ENTERPRISES ,Nashik",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Project Lab",
+        "classroom": "B306",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Kaycee industries,Ambernath",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "CAD Lab",
+        "classroom": "D308",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE Mechanical/ Electrical/Marketing"
+    },
+    {
+        "name": "Innovatus automation ,Nashik",
+        "domain": "Design",
+        "venue": "SIEM Second Floor",
+        "floor": "Gymkhana Dept.",
+        "classroom": "D309",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Warner Electronics",
+        "domain": "Core Electronics",
+        "venue": "SIEM Ground Floor",
+        "floor": "Near Principal Board Room",
+        "classroom": "C109",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE/B.Tech Electronics/E & TC"
+    },
+    {
+        "name": "Krishna Pens,Nashik",
+        "domain": "Manufacturing",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp Digital Electronics Lab",
+        "classroom": "B308",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Tushar Industry, Nashik",
+        "domain": "Mechanical",
+        "venue": "SIEM Second Floor",
+        "floor": "Comp Internet lab",
+        "classroom": "B304",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "ThinkDeep Design",
+        "domain": "Mechanical",
+        "venue": "SIEM Second Floor",
+        "floor": "CAD Lab",
+        "classroom": "D308",
+        "role": "GET/Trainee\n Engineer",
+        "qualification": "BE /B.Tech Mechanical"
     }
 ]
