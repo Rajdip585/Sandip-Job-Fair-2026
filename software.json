@@ -1141,5 +1141,482 @@
         "classroom": "D308",
         "role": "GET/Trainee\n Engineer",
         "qualification": "BE /B.Tech Mechanical"
+    },
+    {
+        "name": "Intern Choice",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF- 09 - A",
+        "role": "Fiannace/BA/DA /\n Mern Stack",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "Gen Culture AI",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF- 09 - B",
+        "role": "Fiannace/BA/DA /\n Mern Stack",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "Data Software Analysis",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF- 09 - C",
+        "role": "Fiannace/BA/DA /\n Mern Stack",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "Altruist Technology",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF- 09 - D",
+        "role": "Fiannace/BA/DA /\n /BPO",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "HFL",
+        "domain": "Manufacture",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Cafeteria - A",
+        "role": "Finance/HR/ QA /QC",
+        "qualification": "Bpharm/ M Pharm/ MBA"
+    },
+    {
+        "name": "Bonace Engineers",
+        "domain": "Manufacture",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Cafeteria - B",
+        "role": "Finance/HR/ Project\n Cordinater",
+        "qualification": "BE Mech / MBA"
+    },
+    {
+        "name": "Growwoorth",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Cafeteria - C",
+        "role": "Finance/HR/\n Mareketing",
+        "qualification": "Any Graduate"
+    },
+    {
+        "name": "Interz Valley Technology",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08",
+        "role": "BA/DA / Mern Stack\n Developer",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "Codecrafters",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08",
+        "role": "Finance/BA/DA /\n Mern Stack",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "The SSML",
+        "domain": "IT / Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08",
+        "role": "BA/DA / Mern Stack\n Developer",
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+    },
+    {
+        "name": "Metaalman Auto",
+        "domain": "Management /\n Autmobile",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08 - A",
+        "role": "HR/ Production /\n Marketing",
+        "qualification": "Any Graduate"
+    },
+    {
+        "name": "Reliance JIO",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08 - B",
+        "role": "HR/ Marketing",
+        "qualification": "MBA"
+    },
+    {
+        "name": "Indico Remedies",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF -08 - B",
+        "role": "Production/ QA",
+        "qualification": "MBA / B - M Pharm"
+    },
+    {
+        "name": "Midas Casre Pharma",
+        "domain": "Management .\n Pharma",
+        "venue": "SITRC E & D Building",
+        "floor": "Second Floor",
+        "classroom": "Finance Café Cabin",
+        "role": "Production/ QA",
+        "qualification": "MBA / B - M Pharm"
+    },
+    {
+        "name": "Shoppers Stop LTD",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "Second Floor",
+        "classroom": "Finance Café Hall",
+        "role": "HR/Marketing",
+        "qualification": "MBA"
+    },
+    {
+        "name": "Jindal Pipes",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "Second Floor",
+        "classroom": "ES - 10 -A",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Madan Sales",
+        "domain": "Sales/Production",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF - 12 -A",
+        "role": "Finance/HR/\n Mareketing",
+        "qualification": "MBA"
+    },
+    {
+        "name": "Care united CIIGma Hospital",
+        "domain": "Management /\n Pharma",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF - 12 -B",
+        "role": "HR/ Marketing",
+        "qualification": "MBA / B - M Pharm"
+    },
+    {
+        "name": "Porter",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF - 12 -C",
+        "role": "HR / Marketing",
+        "qualification": "MBA"
+    },
+    {
+        "name": "Sommet Group",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF - 12 -D",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Bank of Baroda (India First)",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "EF - 12 -E",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Teleperformance",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA - Conference room",
+        "role": "Finance/HR/\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Viveda Wellness",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -A",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Credila",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -B",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Agri Expert",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -C",
+        "role": "Finance/HR/ BA /\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "White Band Associates",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -D",
+        "role": "HR/ Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "iPeople Infosystems LLC",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -E",
+        "role": "US Recruitment",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Skill Devlopment",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -F",
+        "role": "Finance/HR/\n Marketing/ O&SCM",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Manasvi Infotech",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "MBA Faculty Room -G",
+        "role": "Finance/HR/\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "INCREDIBLE DIGITAL SOLUTIONS",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -A",
+        "role": "DM/ Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "The Legal Lab",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -B",
+        "role": "HR/ Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Deepak Builders and Developers",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -C",
+        "role": "Finance/HR/\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "United CJ LLP",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -E",
+        "role": "HR/ Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Timus lifestyle - Luggage & Bags",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -G",
+        "role": "HR/ Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Combat Solutions",
+        "domain": "Management",
+        "venue": "SITRC E & D Building",
+        "floor": "First",
+        "classroom": "Mechnical Faculty Room -H",
+        "role": "Finance/HR/\n Marketing",
+        "qualification": "BBA/MBA"
+    },
+    {
+        "name": "Omega Healthcare",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-6",
+        "role": "Process Executive AR",
+        "qualification": "Any Graduate"
+    },
+    {
+        "name": "Umed Pharma",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-4",
+        "role": "Production & QC",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "MedPlus",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Second",
+        "classroom": "S-11",
+        "role": "Pharmacist & Non-\n Pharmacist (CSA,",
+        "qualification": "12th, Graduate / Post Graduate (Any Discipline), Good\n Communication Skills"
+    },
+    {
+        "name": "Bharat Serums and Vaccines",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Ground",
+        "classroom": "G-2",
+        "role": "Production QC",
+        "qualification": "D. Pharma / B. Pharm / M.Pharm"
+    },
+    {
+        "name": "IPCA laboratories Ltd.,",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Ground",
+        "classroom": "G-5",
+        "role": "Production & QC",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "Natco Pharma Ltd.,",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-2",
+        "role": "Production",
+        "qualification": "D. Pharm / B. Pharm Completed"
+    },
+    {
+        "name": "Aurobindo Pharma Ltd.,",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Ground",
+        "classroom": "G-9",
+        "role": "Production",
+        "qualification": "D. Pharm / B. Pharm Completed"
+    },
+    {
+        "name": "Cliantha Research",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-20",
+        "role": "Clinical Data\n Management/Clinical",
+        "qualification": "M.Pharm/ Pharm.D."
+    },
+    {
+        "name": "VSI Ltd",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-10",
+        "role": "Quality Assurance /\n Production",
+        "qualification": "B. Pharm Completed"
+    },
+    {
+        "name": "Blyners Pharma",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-11",
+        "role": "Sales",
+        "qualification": "D. Pharm / B. Pharm Completed only Females"
+    },
+    {
+        "name": "PHS Life Sciences",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-23",
+        "role": "Production\n Supervision",
+        "qualification": "M.Pharm/B.Pharm"
+    },
+    {
+        "name": "Volken",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-9",
+        "role": "Marketing",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "The Legal Lab",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "S-21",
+        "role": "Marketing",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "Care United Sigma Hospital",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Second",
+        "classroom": "S-20",
+        "role": "Production",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "Midas Care Pharma",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Second",
+        "classroom": "S-19",
+        "role": "Production",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "Indoco Remedies",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "Ground",
+        "classroom": "G-6",
+        "role": "Production",
+        "qualification": "D. Pharma / B. Pharm"
+    },
+    {
+        "name": "Datamatics",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-18",
+        "role": "Coder",
+        "qualification": "D. Pharma / B. Pharm/ MBA"
+    },
+    {
+        "name": "WNS",
+        "domain": "Pharma",
+        "venue": "SIPS",
+        "floor": "First",
+        "classroom": "F-18",
+        "role": "Coder",
+        "qualification": "D. Pharma / B. Pharm/ MBA"
     }
 ]
