@@ -89,29 +89,48 @@
 
         function renderCards(data) {
             const list = document.getElementById('companyList');
-            list.innerHTML = data.map(c => `
-                <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-100 relative overflow-hidden active:scale-[0.98] transition-transform">
-                    <div class="absolute top-0 right-0 p-4">
-                        <span class="bg-rose-50 text-rose-700 text-[10px] font-black px-2 py-1 rounded-lg uppercase tracking-tighter">${c.domain}</span>
-                    </div>
-                    
-                    <h2 class="text-xl font-black text-slate-800 mb-1">${c.name}</h2>
-                    <p class="text-sm font-bold text-rose-600 flex items-center gap-1 mb-4">
-                        <i data-lucide="map-pin" class="w-3.5 h-3.5"></i> ${c.venue} • ${c.floor} • ${c.classroom}
-                    </p>
 
-                    <div class="grid grid-cols-2 gap-3 mb-5">
-                        <div class="bg-slate-50 p-3 rounded-2xl">
-                            <p class="text-[9px] uppercase font-bold text-slate-400">Position</p>
-                            <p class="text-xs font-bold text-slate-700">${c.role}</p>
-                        </div>
-                        <div class="bg-slate-50 p-3 rounded-2xl">
-                            <p class="text-[9px] uppercase font-bold text-slate-400">Eligibility</p>
-                            <p class="text-xs font-bold text-slate-700">${c.qualification}</p>
-                        </div>
+            list.innerHTML = data.map(c => {
+                // 1. Initialize linkButton as an empty string for every card
+                let currentLinkButton = '';
+
+                // 2. Only create the button if map_url exists and is not empty
+                if (c.map_url && c.map_url.trim() !== "") {
+                    currentLinkButton = `
+                <a href="${c.map_url}" target="_blank" class="flex items-center justify-center gap-2 w-full bg-slate-900 text-white py-4 rounded-2xl font-bold text-sm mt-2">
+                    Navigate to Building
+                    <i data-lucide="external-link" class="w-4 h-4"></i>
+                </a>`;
+                }
+
+                // 3. Return the full HTML string for this card
+                return `
+            <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-100 relative overflow-hidden active:scale-[0.98] transition-transform">
+                <div class="absolute top-0 right-0 p-4">
+                    <span class="bg-rose-50 text-rose-700 text-[10px] font-black px-2 py-1 rounded-lg uppercase tracking-tighter">${c.domain}</span>
+                </div>
+                
+                <h2 class="text-xl font-black text-slate-800 mb-1">${c.name}</h2>
+                <p class="text-sm font-bold text-rose-600 flex items-center gap-1 mb-4">
+                    <i data-lucide="map-pin" class="w-3.5 h-3.5"></i> ${c.venue} • ${c.floor} • ${c.classroom}
+                </p>
+
+                <div class="grid grid-cols-2 gap-3 mb-5">
+                    <div class="bg-slate-50 p-3 rounded-2xl">
+                        <p class="text-[9px] uppercase font-bold text-slate-400">Position</p>
+                        <p class="text-xs font-bold text-slate-700">${c.role}</p>
+                    </div>
+                    <div class="bg-slate-50 p-3 rounded-2xl">
+                        <p class="text-[9px] uppercase font-bold text-slate-400">Eligibility</p>
+                        <p class="text-xs font-bold text-slate-700">${c.qualification}</p>
                     </div>
                 </div>
-            `).join('');
+                
+                ${currentLinkButton}
+            </div>
+        `;
+            }).join('');
+
             lucide.createIcons();
         }
 
