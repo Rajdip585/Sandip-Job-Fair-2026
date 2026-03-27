@@ -6,7 +6,8 @@
         "floor": "(Basement)",
         "classroom": "AL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Manasvi Infotech, Nashik",
@@ -15,7 +16,8 @@
         "floor": "(Basement)",
         "classroom": "AL03",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Nextin Solutions, Nashik",
@@ -24,7 +26,8 @@
         "floor": "(Basement)",
         "classroom": "AL04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "YSM Infosolution",
@@ -33,7 +36,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG01",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Nakshatra Technologies",
@@ -42,7 +46,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Quantify Data Solutions, Nashik",
@@ -51,7 +56,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG06",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Profound Edutech",
@@ -60,7 +66,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG06",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Electrosoft Solutions, Pune",
@@ -69,7 +76,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Success IT Solution",
@@ -78,7 +86,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "SunFibo Technology",
@@ -87,7 +96,8 @@
         "floor": "(Ground Floor)",
         "classroom": "BG11",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Streamline Tech, Pune",
@@ -96,7 +106,8 @@
         "floor": "(First Floor)",
         "classroom": "CG03",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Altrust AI",
@@ -105,7 +116,8 @@
         "floor": "(First Floor)",
         "classroom": "CG10",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Gen Culture AI",
@@ -114,7 +126,8 @@
         "floor": "(First Floor)",
         "classroom": "CG10",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Planet Eye Pharm AI",
@@ -123,7 +136,8 @@
         "floor": "(First Floor)",
         "classroom": "CG10",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Vaidya Techno Serve",
@@ -132,7 +146,8 @@
         "floor": "(First Floor)",
         "classroom": "CG10",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "e Smart Solution",
@@ -141,7 +156,8 @@
         "floor": "(First Floor)",
         "classroom": "CG10",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Cubed Automation",
@@ -150,7 +166,8 @@
         "floor": "(First Floor)",
         "classroom": "CF01",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Paarsh Infotech",
@@ -159,7 +176,8 @@
         "floor": "(First Floor)",
         "classroom": "CF07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Skill Development Centre, Nashik",
@@ -168,7 +186,8 @@
         "floor": "(First Floor)",
         "classroom": "CF07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Caliber Infotech, Nashik",
@@ -177,7 +196,8 @@
         "floor": "(First Floor)",
         "classroom": "CF08",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "V Group",
@@ -186,7 +206,8 @@
         "floor": "(First Floor)",
         "classroom": "CF09",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "EuroCore Technologies PVT, Pune",
@@ -195,7 +216,8 @@
         "floor": "(First Floor)",
         "classroom": "CF12",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "PayLogic",
@@ -204,7 +226,8 @@
         "floor": "(First Floor)",
         "classroom": "CF12",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "White Bond Associates",
@@ -213,7 +236,8 @@
         "floor": "(Basement)",
         "classroom": "CL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "LazyDeveloper",
@@ -222,7 +246,8 @@
         "floor": "(Basement)",
         "classroom": "CL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "TechnoCraft PVT",
@@ -231,7 +256,8 @@
         "floor": "(Basement)",
         "classroom": "CL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Softsilicon Infotech",
@@ -240,7 +266,8 @@
         "floor": "(Basement)",
         "classroom": "CL05",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Lumniverse Solutions, Nashik",
@@ -249,7 +276,8 @@
         "floor": "(Basement)",
         "classroom": "CL05",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Imarticus Learning Pune",
@@ -258,7 +286,8 @@
         "floor": "(Basement)",
         "classroom": "CL07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Nexonica Solution",
@@ -267,7 +296,8 @@
         "floor": "(First Floor)",
         "classroom": "DF01",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Visual IT",
@@ -276,7 +306,8 @@
         "floor": "(First Floor)",
         "classroom": "DF01",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Bits and Bytes, Netleap",
@@ -285,7 +316,8 @@
         "floor": "(First Floor)",
         "classroom": "DF02-B",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Softcrowd Technologies",
@@ -294,7 +326,8 @@
         "floor": "(First Floor)",
         "classroom": "DF04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Sumago Infotech",
@@ -303,7 +336,8 @@
         "floor": "(First Floor)",
         "classroom": "DF05",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Techentra",
@@ -312,7 +346,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DG06",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Capoasis",
@@ -321,7 +356,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DG06",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Data Software Analysis",
@@ -330,7 +366,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DG05",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Ideal Infotech",
@@ -339,7 +376,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DG05",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "IPeople InfoSystems",
@@ -348,7 +386,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DG08",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Intern Choice",
@@ -357,7 +396,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DL01",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "QuasarCybertech, Nashik",
@@ -366,7 +406,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Team Talent Acquisition",
@@ -375,7 +416,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Blaze Media Services",
@@ -384,7 +426,8 @@
         "floor": "(Ground Floor)",
         "classroom": "DL04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "VN Software pvt Ltd, Nashik",
@@ -393,7 +436,8 @@
         "floor": "(Basement)",
         "classroom": "AL03",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Drizzle IT",
@@ -402,7 +446,8 @@
         "floor": "(Basement)",
         "classroom": "AL02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "WNS",
@@ -411,7 +456,8 @@
         "floor": "Second Floor",
         "classroom": "ES02",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Combat Solutions Pvt.Ltd, Nashik",
@@ -420,7 +466,8 @@
         "floor": "(Basement)",
         "classroom": "AL04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Pointer IT Solutions",
@@ -429,7 +476,8 @@
         "floor": "(Basement)",
         "classroom": "AL04",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Aveniaa Pvt. Ltd, Pune",
@@ -438,7 +486,8 @@
         "floor": "First Floor",
         "classroom": "Automation Faculty Room",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Sansmit Enterprise Pvt. Ltd",
@@ -447,7 +496,8 @@
         "floor": "Second Floor",
         "classroom": "ES07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Madweb Technologies Pvt. Ltd.",
@@ -456,7 +506,8 @@
         "floor": "Second Floor",
         "classroom": "ES07",
         "role": "Software Developer",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "IT Vedant",
@@ -465,7 +516,8 @@
         "floor": "Second Floor",
         "classroom": "ES09",
         "role": "Software Developer/ Non-IT",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "ApMoSys Technologies",
@@ -474,7 +526,8 @@
         "floor": "Ground Floor",
         "classroom": "CG09",
         "role": "Software Testing/ Development",
-        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA"
+        "qualification": "B..E/B.Tech (CS/IT/AIDS) /BCA/MCA",
+        "map_url": "https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "JP Enterprises",
@@ -483,7 +536,8 @@
         "floor": "NSS Room",
         "classroom": "C203",
         "role": "GET/Trainee Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Indus Tower",
@@ -492,7 +546,8 @@
         "floor": "Refrigreration & Air Conditioning",
         "classroom": "C204",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Legrand sinnar plant",
@@ -501,7 +556,8 @@
         "floor": "Dynamics of Machines Lab",
         "classroom": "C205",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Shree Ekvira Manufacturing",
@@ -510,7 +566,8 @@
         "floor": "Heat Transfer Lab",
         "classroom": "C206",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Design Tech",
@@ -519,7 +576,8 @@
         "floor": "Theory of Machines Lab",
         "classroom": "D201",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Tirumala Infotech ( JBL )",
@@ -528,7 +586,8 @@
         "floor": "Board Room (Hod Mech)",
         "classroom": "D208B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Bajaj Sons",
@@ -537,7 +596,8 @@
         "floor": "Industrial Fluid Power Lab",
         "classroom": "D210",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Purchase House",
@@ -546,7 +606,8 @@
         "floor": "Skill Development Lab",
         "classroom": "D212",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Bajaj Auto",
@@ -555,7 +616,8 @@
         "floor": "Project Lab",
         "classroom": "C207",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Joise-O-Mechanical Engg. Pvt. Ltd",
@@ -564,7 +626,8 @@
         "floor": "Thermodynamics Lab",
         "classroom": "D104",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Samtech Pvt. Ltd",
@@ -573,7 +636,8 @@
         "floor": "Internal Combustion Lab",
         "classroom": "D105",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical/ITI (All field)"
+        "qualification": "BE /B.Tech Mechanical/ITI (All field)",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Reliable Technocraft",
@@ -582,7 +646,8 @@
         "floor": "Turbo Machine Lab",
         "classroom": "D106",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Nilraj Engineering",
@@ -591,7 +656,8 @@
         "floor": "Fluid Machine Lab",
         "classroom": "D107",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Vijay Rolling industries",
@@ -600,7 +666,8 @@
         "floor": "Workshop Cabin",
         "classroom": "D111",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "SK Engineering",
@@ -609,7 +676,8 @@
         "floor": "Shelke Sir Cabin",
         "classroom": "D208C",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Maruti Hydraulics Ltd.",
@@ -618,7 +686,8 @@
         "floor": "Seminar Hall (Mech)",
         "classroom": "D209",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical/Sales Manager (Exp- 6 yrs)/ ITI\n (All field)"
+        "qualification": "BE /B.Tech Mechanical/Sales Manager (Exp- 6 yrs)/ ITI\n (All field)",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Sudhir Fasteners",
@@ -627,7 +696,8 @@
         "floor": "Side Cabin",
         "classroom": "D208C",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Dream Group",
@@ -636,7 +706,8 @@
         "floor": "Engineering Metallurgy Lab",
         "classroom": "D204",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Invensys CAD",
@@ -645,7 +716,8 @@
         "floor": "Dean Acadamics Cabin",
         "classroom": "C108",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Sterlite Industries",
@@ -654,7 +726,8 @@
         "floor": "International Affairs Cell",
         "classroom": "A211 A",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "SKF India Pvt LTd",
@@ -663,7 +736,8 @@
         "floor": "International Affairs Cell",
         "classroom": "A211 B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "PDRL",
@@ -672,7 +746,8 @@
         "floor": "International Affairs Cell",
         "classroom": "A211 C",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Aerospace"
+        "qualification": "BE/B.Tech Aerospace",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Avdhoot Heat Treat Pvt LTD",
@@ -681,7 +756,8 @@
         "floor": "International Affairs Cell",
         "classroom": "A211 D",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "WRS Energy",
@@ -690,7 +766,8 @@
         "floor": "Civil Seminar Hall",
         "classroom": "A210",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "SaraTech Engineers",
@@ -699,7 +776,8 @@
         "floor": "Internet Lab",
         "classroom": "C303",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Atharva Moulds",
@@ -708,7 +786,8 @@
         "floor": "Comp Software lab",
         "classroom": "B312",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Shri Balaji Engineering",
@@ -717,7 +796,8 @@
         "floor": "Comp Seminar Hall",
         "classroom": "B309",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Fukoku India Pvt Ltd",
@@ -726,7 +806,8 @@
         "floor": "Comp Programming Lab",
         "classroom": "B303",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "HD BIM SERVICES",
@@ -735,7 +816,8 @@
         "floor": "Comp hardware Lab",
         "classroom": "B310",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical / Civil"
+        "qualification": "BE /B.Tech Mechanical / Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "VIP",
@@ -744,7 +826,8 @@
         "floor": "Electrical Classroom",
         "classroom": "B104",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Mechanical/Electrical"
+        "qualification": "BE/B.Tech Mechanical/Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Advent Engineering",
@@ -753,7 +836,8 @@
         "floor": "Basic Electronics Lab",
         "classroom": "B105",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Mechanical/Electrical"
+        "qualification": "BE/B.Tech Mechanical/Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Saptshrungi Cold Retreads",
@@ -762,7 +846,8 @@
         "floor": "Switchgear & PLC Lab",
         "classroom": "B107",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Vasundhara Entreprises",
@@ -771,7 +856,8 @@
         "floor": "Analog & Digital & Network Lab",
         "classroom": "B110",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Nashik Engg Cluster",
@@ -780,7 +866,8 @@
         "floor": "Dr.Swati Gade R&D Lab",
         "classroom": "C101",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Namatronix, Satpur, Nashik",
@@ -789,7 +876,8 @@
         "floor": "Electrical Machine Lab",
         "classroom": "B001",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Viren Technology",
@@ -798,7 +886,8 @@
         "floor": "Electrical HOD Board Room",
         "classroom": "B111B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Navnath Electricals",
@@ -807,7 +896,8 @@
         "floor": "Measurement & PQ Lab",
         "classroom": "B106",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Agrawal Industries",
@@ -816,7 +906,8 @@
         "floor": "Counselling room",
         "classroom": "C110",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Zekko Power",
@@ -825,7 +916,8 @@
         "floor": "Principal Board Room",
         "classroom": "Principal Board Room",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Mansa Automation, Nashik",
@@ -834,7 +926,8 @@
         "floor": "High Voltage Lab",
         "classroom": "B004",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electrical"
+        "qualification": "BE/B.Tech Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Ronch Polymers",
@@ -843,7 +936,8 @@
         "floor": "Conference Room (HOD EnTC)",
         "classroom": "B212B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Gandhi Automations Private Limited",
@@ -852,7 +946,8 @@
         "floor": "VLSI Design Lab",
         "classroom": "B211",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "IMS ENTERPRISES",
@@ -861,7 +956,8 @@
         "floor": "Basic Electronics Lab",
         "classroom": "B210",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Unnati Engineers",
@@ -870,7 +966,8 @@
         "floor": "Communication Lab",
         "classroom": "B208",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Aradhya Electonics Pvt Ltd",
@@ -879,7 +976,8 @@
         "floor": "Signal Processing Lab",
         "classroom": "B209",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Sky Circuit Nashik",
@@ -888,7 +986,8 @@
         "floor": "OFC & Microwave Lab",
         "classroom": "B207",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Aureole Pharma Tech Sinner",
@@ -897,7 +996,8 @@
         "floor": "Electronics Device & Circuit Lab",
         "classroom": "B206",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Mirayantra",
@@ -906,7 +1006,8 @@
         "floor": "Electronics Design & PCB Lab",
         "classroom": "B205",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Aeroasia Technologies Pvt Ltd",
@@ -915,7 +1016,8 @@
         "floor": "Digital Switching Lab",
         "classroom": "C201",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "B.E /B.Tech E & TC/Electrical"
+        "qualification": "B.E /B.Tech E & TC/Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Electroarc engineering solution",
@@ -924,7 +1026,8 @@
         "floor": "Boys Common Room",
         "classroom": "C208",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "B.E /B.Tech E & TC/Electrical"
+        "qualification": "B.E /B.Tech E & TC/Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Precison Instrumentation and Services Pvt Ltd",
@@ -933,7 +1036,8 @@
         "floor": "Class Room TE",
         "classroom": "B203",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "B.E /B.Tech E & TC/Electrical"
+        "qualification": "B.E /B.Tech E & TC/Electrical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Mec turing",
@@ -942,7 +1046,8 @@
         "floor": "Class Room SE",
         "classroom": "B204",
         "role": "GET/Trainee Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Creation Interior Contractors, Nashik",
@@ -951,7 +1056,8 @@
         "floor": "Concreate Technology Lab",
         "classroom": "A012",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Total Designers Home, Nashik",
@@ -960,7 +1066,8 @@
         "floor": "Civil Classroom",
         "classroom": "A009",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "The Nisarga Consultancy, Nashik",
@@ -969,7 +1076,8 @@
         "floor": "Fluid Mechanics",
         "classroom": "A004",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Pawar Patkar Constructions Pvt Ltd.",
@@ -978,7 +1086,8 @@
         "floor": "Transportation Lab",
         "classroom": "A005",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Ellora Engineering Procurement Construction (EPC) Pvt Ltd",
@@ -987,7 +1096,8 @@
         "floor": "Geotech Lab",
         "classroom": "A002",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Planet Eye Infra AI",
@@ -996,7 +1106,8 @@
         "floor": "Strength of Material Lab",
         "classroom": "A001",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Ultra Tech Cement Ltd, Nashik",
@@ -1005,7 +1116,8 @@
         "floor": "Engineering Mechanics Lab",
         "classroom": "A013",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "ATAL REALTECH",
@@ -1014,7 +1126,8 @@
         "floor": "Enviromental Engineering",
         "classroom": "A112",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Rehabilitation Engineers",
@@ -1023,7 +1136,8 @@
         "floor": "NPTEL Cell",
         "classroom": "A015",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Unity Infra",
@@ -1032,7 +1146,8 @@
         "floor": "Conference Room (HOD Civil)",
         "classroom": "A010B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "ABL Infrastructures",
@@ -1041,7 +1156,8 @@
         "floor": "SURVEY LAB",
         "classroom": "A006",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Telge Projects",
@@ -1050,7 +1166,8 @@
         "floor": "Strength of Material Lab",
         "classroom": "A001",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Vakhare Associates/ D.D. Architechts",
@@ -1059,7 +1176,8 @@
         "floor": "Civil Staff Room",
         "classroom": "A003",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Karwate & Vakhare Associates",
@@ -1068,7 +1186,8 @@
         "floor": "Hardware Lab",
         "classroom": "B370",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Civil"
+        "qualification": "BE/B.Tech Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Nash Robotics,Nashik",
@@ -1077,7 +1196,8 @@
         "floor": "Conference Room (HOD Comp)",
         "classroom": "B311B",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech A & R/ Eletronics/ E & TC"
+        "qualification": "BE/B.Tech A & R/ Eletronics/ E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "S. B. ENTERPRISES ,Nashik",
@@ -1086,7 +1206,8 @@
         "floor": "Project Lab",
         "classroom": "B306",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Kaycee industries,Ambernath",
@@ -1095,7 +1216,8 @@
         "floor": "CAD Lab",
         "classroom": "D308",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE Mechanical/ Electrical/Marketing"
+        "qualification": "BE Mechanical/ Electrical/Marketing",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Innovatus automation ,Nashik",
@@ -1104,7 +1226,8 @@
         "floor": "Gymkhana Dept.",
         "classroom": "D309",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Warner Electronics",
@@ -1113,7 +1236,8 @@
         "floor": "Near Principal Board Room",
         "classroom": "C109",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE/B.Tech Electronics/E & TC"
+        "qualification": "BE/B.Tech Electronics/E & TC",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Krishna Pens,Nashik",
@@ -1122,7 +1246,8 @@
         "floor": "Comp Digital Electronics Lab",
         "classroom": "B308",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Tushar Industry, Nashik",
@@ -1131,7 +1256,8 @@
         "floor": "Comp Internet lab",
         "classroom": "B304",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "ThinkDeep Design",
@@ -1140,7 +1266,8 @@
         "floor": "CAD Lab",
         "classroom": "D308",
         "role": "GET/Trainee\n Engineer",
-        "qualification": "BE /B.Tech Mechanical"
+        "qualification": "BE /B.Tech Mechanical",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9625323,73.6681581&travelmode=walking"
     },
     {
         "name": "Intern Choice",
@@ -1149,7 +1276,8 @@
         "floor": "First",
         "classroom": "EF- 09 - A",
         "role": "Fiannace/BA/DA /\n Mern Stack",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Gen Culture AI",
@@ -1158,7 +1286,8 @@
         "floor": "First",
         "classroom": "EF- 09 - B",
         "role": "Fiannace/BA/DA /\n Mern Stack",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Data Software Analysis",
@@ -1167,7 +1296,8 @@
         "floor": "First",
         "classroom": "EF- 09 - C",
         "role": "Fiannace/BA/DA /\n Mern Stack",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Altruist Technology",
@@ -1176,7 +1306,8 @@
         "floor": "First",
         "classroom": "EF- 09 - D",
         "role": "Fiannace/BA/DA /\n /BPO",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "HFL",
@@ -1185,7 +1316,8 @@
         "floor": "First",
         "classroom": "Cafeteria - A",
         "role": "Finance/HR/ QA /QC",
-        "qualification": "Bpharm/ M Pharm/ MBA"
+        "qualification": "Bpharm/ M Pharm/ MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Bonace Engineers",
@@ -1194,7 +1326,8 @@
         "floor": "First",
         "classroom": "Cafeteria - B",
         "role": "Finance/HR/ Project\n Cordinater",
-        "qualification": "BE Mech / MBA"
+        "qualification": "BE Mech / MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Growwoorth",
@@ -1203,7 +1336,8 @@
         "floor": "First",
         "classroom": "Cafeteria - C",
         "role": "Finance/HR/\n Mareketing",
-        "qualification": "Any Graduate"
+        "qualification": "Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Interz Valley Technology",
@@ -1212,7 +1346,8 @@
         "floor": "First",
         "classroom": "EF -08",
         "role": "BA/DA / Mern Stack\n Developer",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Codecrafters",
@@ -1221,7 +1356,8 @@
         "floor": "First",
         "classroom": "EF -08",
         "role": "Finance/BA/DA /\n Mern Stack",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "The SSML",
@@ -1230,7 +1366,8 @@
         "floor": "First",
         "classroom": "EF -08",
         "role": "BA/DA / Mern Stack\n Developer",
-        "qualification": "BCA / MCA/ MBA / BE IT / AIDS"
+        "qualification": "BCA / MCA/ MBA / BE IT / AIDS",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Metaalman Auto",
@@ -1239,7 +1376,8 @@
         "floor": "First",
         "classroom": "EF -08 - A",
         "role": "HR/ Production /\n Marketing",
-        "qualification": "Any Graduate"
+        "qualification": "Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Reliance JIO",
@@ -1248,7 +1386,8 @@
         "floor": "First",
         "classroom": "EF -08 - B",
         "role": "HR/ Marketing",
-        "qualification": "MBA"
+        "qualification": "MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Indico Remedies",
@@ -1257,7 +1396,8 @@
         "floor": "First",
         "classroom": "EF -08 - B",
         "role": "Production/ QA",
-        "qualification": "MBA / B - M Pharm"
+        "qualification": "MBA / B - M Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Midas Casre Pharma",
@@ -1266,7 +1406,8 @@
         "floor": "Second Floor",
         "classroom": "Finance Café Cabin",
         "role": "Production/ QA",
-        "qualification": "MBA / B - M Pharm"
+        "qualification": "MBA / B - M Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Shoppers Stop LTD",
@@ -1275,7 +1416,8 @@
         "floor": "Second Floor",
         "classroom": "Finance Café Hall",
         "role": "HR/Marketing",
-        "qualification": "MBA"
+        "qualification": "MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Jindal Pipes",
@@ -1284,7 +1426,8 @@
         "floor": "Second Floor",
         "classroom": "ES - 10 -A",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Madan Sales",
@@ -1293,7 +1436,8 @@
         "floor": "First",
         "classroom": "EF - 12 -A",
         "role": "Finance/HR/\n Mareketing",
-        "qualification": "MBA"
+        "qualification": "MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Care united CIIGma Hospital",
@@ -1302,7 +1446,8 @@
         "floor": "First",
         "classroom": "EF - 12 -B",
         "role": "HR/ Marketing",
-        "qualification": "MBA / B - M Pharm"
+        "qualification": "MBA / B - M Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Porter",
@@ -1311,7 +1456,8 @@
         "floor": "First",
         "classroom": "EF - 12 -C",
         "role": "HR / Marketing",
-        "qualification": "MBA"
+        "qualification": "MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Sommet Group",
@@ -1320,7 +1466,8 @@
         "floor": "First",
         "classroom": "EF - 12 -D",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Bank of Baroda (India First)",
@@ -1329,7 +1476,8 @@
         "floor": "First",
         "classroom": "EF - 12 -E",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Teleperformance",
@@ -1338,7 +1486,8 @@
         "floor": "First",
         "classroom": "MBA - Conference room",
         "role": "Finance/HR/\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Viveda Wellness",
@@ -1347,7 +1496,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -A",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Credila",
@@ -1356,7 +1506,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -B",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Agri Expert",
@@ -1365,7 +1516,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -C",
         "role": "Finance/HR/ BA /\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "White Band Associates",
@@ -1374,7 +1526,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -D",
         "role": "HR/ Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "iPeople Infosystems LLC",
@@ -1383,7 +1536,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -E",
         "role": "US Recruitment",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Skill Devlopment",
@@ -1392,7 +1546,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -F",
         "role": "Finance/HR/\n Marketing/ O&SCM",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Manasvi Infotech",
@@ -1401,7 +1556,8 @@
         "floor": "First",
         "classroom": "MBA Faculty Room -G",
         "role": "Finance/HR/\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "INCREDIBLE DIGITAL SOLUTIONS",
@@ -1410,7 +1566,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -A",
         "role": "DM/ Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "The Legal Lab",
@@ -1419,7 +1576,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -B",
         "role": "HR/ Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Deepak Builders and Developers",
@@ -1428,7 +1586,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -C",
         "role": "Finance/HR/\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "United CJ LLP",
@@ -1437,7 +1596,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -E",
         "role": "HR/ Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Timus lifestyle - Luggage & Bags",
@@ -1446,7 +1606,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -G",
         "role": "HR/ Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Combat Solutions",
@@ -1455,7 +1616,8 @@
         "floor": "First",
         "classroom": "Mechnical Faculty Room -H",
         "role": "Finance/HR/\n Marketing",
-        "qualification": "BBA/MBA"
+        "qualification": "BBA/MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9650580,73.6683170&travelmode=walking"
     },
     {
         "name": "Omega Healthcare",
@@ -1464,7 +1626,8 @@
         "floor": "First",
         "classroom": "F-6",
         "role": "Process Executive AR",
-        "qualification": "Any Graduate"
+        "qualification": "Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Umed Pharma",
@@ -1473,7 +1636,8 @@
         "floor": "First",
         "classroom": "F-4",
         "role": "Production & QC",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "MedPlus",
@@ -1482,7 +1646,8 @@
         "floor": "Second",
         "classroom": "S-11",
         "role": "Pharmacist & Non-\n Pharmacist (CSA,",
-        "qualification": "12th, Graduate / Post Graduate (Any Discipline), Good\n Communication Skills"
+        "qualification": "12th, Graduate / Post Graduate (Any Discipline), Good\n Communication Skills",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Bharat Serums and Vaccines",
@@ -1491,7 +1656,8 @@
         "floor": "Ground",
         "classroom": "G-2",
         "role": "Production QC",
-        "qualification": "D. Pharma / B. Pharm / M.Pharm"
+        "qualification": "D. Pharma / B. Pharm / M.Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "IPCA laboratories Ltd.,",
@@ -1500,7 +1666,8 @@
         "floor": "Ground",
         "classroom": "G-5",
         "role": "Production & QC",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Natco Pharma Ltd.,",
@@ -1509,7 +1676,8 @@
         "floor": "First",
         "classroom": "F-2",
         "role": "Production",
-        "qualification": "D. Pharm / B. Pharm Completed"
+        "qualification": "D. Pharm / B. Pharm Completed",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Aurobindo Pharma Ltd.,",
@@ -1518,7 +1686,8 @@
         "floor": "Ground",
         "classroom": "G-9",
         "role": "Production",
-        "qualification": "D. Pharm / B. Pharm Completed"
+        "qualification": "D. Pharm / B. Pharm Completed",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Cliantha Research",
@@ -1527,7 +1696,8 @@
         "floor": "First",
         "classroom": "F-20",
         "role": "Clinical Data\n Management/Clinical",
-        "qualification": "M.Pharm/ Pharm.D."
+        "qualification": "M.Pharm/ Pharm.D.",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "VSI Ltd",
@@ -1536,7 +1706,8 @@
         "floor": "First",
         "classroom": "F-10",
         "role": "Quality Assurance /\n Production",
-        "qualification": "B. Pharm Completed"
+        "qualification": "B. Pharm Completed",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Blyners Pharma",
@@ -1545,7 +1716,8 @@
         "floor": "First",
         "classroom": "F-11",
         "role": "Sales",
-        "qualification": "D. Pharm / B. Pharm Completed only Females"
+        "qualification": "D. Pharm / B. Pharm Completed only Females",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "PHS Life Sciences",
@@ -1554,7 +1726,8 @@
         "floor": "First",
         "classroom": "F-23",
         "role": "Production\n Supervision",
-        "qualification": "M.Pharm/B.Pharm"
+        "qualification": "M.Pharm/B.Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Volken",
@@ -1563,7 +1736,8 @@
         "floor": "First",
         "classroom": "F-9",
         "role": "Marketing",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "The Legal Lab",
@@ -1572,7 +1746,8 @@
         "floor": "First",
         "classroom": "S-21",
         "role": "Marketing",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Care United Sigma Hospital",
@@ -1581,7 +1756,8 @@
         "floor": "Second",
         "classroom": "S-20",
         "role": "Production",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Midas Care Pharma",
@@ -1590,7 +1766,8 @@
         "floor": "Second",
         "classroom": "S-19",
         "role": "Production",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Indoco Remedies",
@@ -1599,7 +1776,8 @@
         "floor": "Ground",
         "classroom": "G-6",
         "role": "Production",
-        "qualification": "D. Pharma / B. Pharm"
+        "qualification": "D. Pharma / B. Pharm",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Datamatics",
@@ -1608,7 +1786,8 @@
         "floor": "First",
         "classroom": "F-18",
         "role": "Coder",
-        "qualification": "D. Pharma / B. Pharm/ MBA"
+        "qualification": "D. Pharma / B. Pharm/ MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "WNS",
@@ -1617,7 +1796,8 @@
         "floor": "First",
         "classroom": "F-18",
         "role": "Coder",
-        "qualification": "D. Pharma / B. Pharm/ MBA"
+        "qualification": "D. Pharma / B. Pharm/ MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632183,73.6686405&travelmode=walking"
     },
     {
         "name": "Ltsv Pvt. Ltd, Nashik",
@@ -1626,7 +1806,8 @@
         "floor": "SP Library (Admin Building)",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI , Diploma/B.E and any graduation"
+        "qualification": "10/12/ITI , Diploma/B.E and any graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Powerinst Electromagnet Pvt Ltd., Nashik",
@@ -1635,7 +1816,8 @@
         "floor": "Power System Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE Electrical Engineering"
+        "qualification": "Diploma/BE Electrical Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shri Aashapura Rubber Pvt Ltd, Nashik",
@@ -1644,7 +1826,8 @@
         "floor": "Computer Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/ BE Mechanical Engineering"
+        "qualification": "Diploma/ BE Mechanical Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Vertex Precise Engg Pvt Ltd, Nashik",
@@ -1653,7 +1836,8 @@
         "floor": "TOM LAB- ME",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma ME/EE"
+        "qualification": "Diploma ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Mahindra & Mahindra Tools & Die Nashik",
@@ -1662,7 +1846,8 @@
         "floor": "Admin Office Global School",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE Mechanical Engineering"
+        "qualification": "Diploma/BE Mechanical Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MSL Driveline Systems Pvt Ltd, Nashik",
@@ -1671,7 +1856,8 @@
         "floor": "Refrigeration & Air Conditioning Lab ME",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI/Diploma/BE Mechanical Engineering"
+        "qualification": "10/12/ITI/Diploma/BE Mechanical Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Chetana Engineering Pvt.Ltd.",
@@ -1680,7 +1866,8 @@
         "floor": "Record Room",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/Degree"
+        "qualification": "ITI/Diploma/Degree",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "CTR Manufacturing India Pvt Ltd., Nashik",
@@ -1689,7 +1876,8 @@
         "floor": "HOD Cabin (EE)",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/BE ME/EE/E & Tc"
+        "qualification": "ITI/Diploma/BE ME/EE/E & Tc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Dhanraj Switchgear Pvt Ltd, Nashik",
@@ -1698,7 +1886,8 @@
         "floor": "Dept Library EE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/ BE ME/EE/B. Com"
+        "qualification": "Diploma/ BE ME/EE/B. Com",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Prime Graphite india Pvt ltd, Nashik Ashgraph Technology",
@@ -1707,7 +1896,8 @@
         "floor": "CAD Lab (CE)",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE"
+        "qualification": "Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Mahindra CIE ,Nashik",
@@ -1716,7 +1906,8 @@
         "floor": "HOD Cabin (ME)",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE"
+        "qualification": "Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Epiroc Mining India Ltd, Nashik",
@@ -1725,7 +1916,8 @@
         "floor": "Drawing Hall CE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE"
+        "qualification": "Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Mungi Engineering Pvt Ltd, Nashik",
@@ -1734,7 +1926,8 @@
         "floor": "Store Admin",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/BE ME/EE"
+        "qualification": "ITI/Diploma/BE ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MEMCO Engg. Pvt Ltd, Nashik",
@@ -1743,7 +1936,8 @@
         "floor": "Machine Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/BE ME/EE"
+        "qualification": "ITI/Diploma/BE ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MOTHERSONS PVT LTD , NASHIK",
@@ -1752,7 +1946,8 @@
         "floor": "Hydraulics Lab CE",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI/Diploma/BE Mechanical / Electrical Engineering"
+        "qualification": "10/12/ITI/Diploma/BE Mechanical / Electrical Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Bosch Ltd, Nashik",
@@ -1761,7 +1956,8 @@
         "floor": "Seminar Hall",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI/Diploma/BE ME/EE/BSc/BA/Bcom"
+        "qualification": "10/12/ITI/Diploma/BE ME/EE/BSc/BA/Bcom",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Krishna Builders and developers Pvt ltd, Nashik",
@@ -1770,7 +1966,8 @@
         "floor": "ME Workshop Carpentry Shop",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE Civil Engineering"
+        "qualification": "Diploma/BE Civil Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shreeniwas Manresource Pvt Ltd, Pune",
@@ -1779,7 +1976,8 @@
         "floor": "Conference hall (EE)",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Slidewell Meilleur Pvt Ltd.,Nashik",
@@ -1788,7 +1986,8 @@
         "floor": "HOD Cabin (CE)",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE"
+        "qualification": "Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "CEAT LTD , NASHIK",
@@ -1797,7 +1996,8 @@
         "floor": "Fluid Mechanics ME",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE"
+        "qualification": "Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Harsh Construction Pvt Ltd, Nashik",
@@ -1806,7 +2006,8 @@
         "floor": "ME Workshop welding shop",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE Civil Engineering"
+        "qualification": "Diploma/BE Civil Engineering",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "TATA Motors Ltd, Pune",
@@ -1815,7 +2016,8 @@
         "floor": "HOD CO Cabin",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma-ME/EE"
+        "qualification": "ITI, Diploma-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Bajaj ltd , Pune",
@@ -1824,7 +2026,8 @@
         "floor": "ME- Record room",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma-ME/EE"
+        "qualification": "ITI, Diploma-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Virtuoso Opto electronics ltd, Nashik",
@@ -1833,7 +2036,8 @@
         "floor": "HOD Conference Hall Information Technology",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/BE-ME/EE"
+        "qualification": "ITI/Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Kirloskar Pnumatics Ltd , Nashik",
@@ -1842,7 +2046,8 @@
         "floor": "Geotechnical Engg. CE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma-ME/EE, BSc"
+        "qualification": "Diploma-ME/EE, BSc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MG Electrica Pvt Ltd .Nashik",
@@ -1851,7 +2056,8 @@
         "floor": "Concrete Technology CE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE/E&Tc"
+        "qualification": "Diploma/BE-ME/EE/E&Tc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Chirayu Consultancy Services Pvt Ltd, Nashik",
@@ -1860,7 +2066,8 @@
         "floor": "Mechanics of Structure CE",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma in civil Engineering /BE Civil"
+        "qualification": "Diploma in civil Engineering /BE Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "HIND RECTIFIER Ltd, Nashik",
@@ -1869,7 +2076,8 @@
         "floor": "IFB Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/BE-ME/EE/E&Tc"
+        "qualification": "ITI/Diploma/BE-ME/EE/E&Tc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "TURING ESTLAND PVT LTD, Nashik",
@@ -1878,7 +2086,8 @@
         "floor": "HOD Cabin (TE)",
         "classroom": "-",
         "role": "",
-        "qualification": "B E- EE/Automation/ MBA"
+        "qualification": "B E- EE/Automation/ MBA",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "EPL LTD, WADA PALGHAR",
@@ -1887,7 +2096,8 @@
         "floor": "CLASSROOM 115-Admin Building",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/Diploma/BE-ME/EE"
+        "qualification": "10/12/Diploma/BE-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "FAB INDUSTRIES PVT LTD NASHIK",
@@ -1896,7 +2106,8 @@
         "floor": "Civil CAD Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma/BE-ME/EE/E&Tc"
+        "qualification": "Diploma/BE-ME/EE/E&Tc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "UDYOG VIKAS Pvt Ltd, Mumbai",
@@ -1905,7 +2116,8 @@
         "floor": "ME CAD Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI, Diploma/BE-ME/EE/E & Tc"
+        "qualification": "10/12/ITI, Diploma/BE-ME/EE/E & Tc",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "FORTUNA ENGG PVT LTD, NASHIK",
@@ -1914,7 +2126,8 @@
         "floor": "Highway Engg Lab ME",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "INNOVA RUBBER Pvt Ltd, NASHIK",
@@ -1923,7 +2136,8 @@
         "floor": "Metrology & Measurements Lab ME",
         "classroom": "-",
         "role": "",
-        "qualification": "BE- ME/EE"
+        "qualification": "BE- ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "GANESH ELECTRICAL PVT LTD, NASHIK",
@@ -1932,7 +2146,8 @@
         "floor": "SP Library (Admin Building)",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/B.E-ME/EE"
+        "qualification": "ITI , Diploma/B.E-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "JYOTI STRUCTURE PVT LTD, NASHIK",
@@ -1941,7 +2156,8 @@
         "floor": "Basic Electronics Lab TE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "BLUE STAR INDIA Ltd, Nashik",
@@ -1950,7 +2166,8 @@
         "floor": "Store room EE",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI , Diploma/Degree EE, Mechanical Engineering\n and any graduation"
+        "qualification": "10/12/ITI , Diploma/Degree EE, Mechanical Engineering\n and any graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Green Con Solution pvt ltd, Nashik",
@@ -1959,7 +2176,8 @@
         "floor": "Basic Electrical Engg. Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree EE Engineering and any graduation"
+        "qualification": "ITI , Diploma/Degree EE Engineering and any graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "K. V. Electricals, Nashik",
@@ -1968,7 +2186,8 @@
         "floor": "Measurement Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree EE"
+        "qualification": "ITI , Diploma/Degree EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "NASH Robotics Pvt Ltd, Nashik",
@@ -1977,7 +2196,8 @@
         "floor": "HOD Forensic Science",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree ME/EE"
+        "qualification": "ITI , Diploma/Degree ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Dream Infra Pvt ltd, Nashik",
@@ -1986,7 +2206,8 @@
         "floor": "ME Workshop machine shop",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/BE/CIVIL, any graduation"
+        "qualification": "ITI , Diploma/BE/CIVIL, any graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shubhada Polymer Products Pvt. Ltd. Nashik",
@@ -1995,7 +2216,8 @@
         "floor": "ME Workshop CNC Shop",
         "classroom": "-",
         "role": "",
-        "qualification": "Degree, Diploma, MBA HR, Any Graduate"
+        "qualification": "Degree, Diploma, MBA HR, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Lucy Electric Ltd, Nashik",
@@ -2004,7 +2226,8 @@
         "floor": "ME Workshop Automobile shop",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "KOSO India PVT. LTD. Nashik",
@@ -2013,7 +2236,8 @@
         "floor": "HOD APS Cabin APS",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, MBA HR, Any Graduate"
+        "qualification": "ITI, Diploma, MBA HR, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Patco Precision Pvt. Ltd. Nashik",
@@ -2022,7 +2246,8 @@
         "floor": "ME Sheet metal Shop",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shah Auto Industries Pvt Ltd, Nashik",
@@ -2031,7 +2256,8 @@
         "floor": "CO Conference Hall CO",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MARKEN HEALTHTECH LTD, NASHIK",
@@ -2040,7 +2266,8 @@
         "floor": "Conference hall (ME)",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Emitech Technologies India Pvt.Ltd. Pune",
@@ -2049,7 +2276,8 @@
         "floor": "APS Conference Hall APS",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation"
+        "qualification": "ITI , Diploma/Degree Mechanical Engineering and any\n graduation",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MACRON LOGI Services Pvt.Ltd. Mumbai",
@@ -2058,7 +2286,8 @@
         "floor": "HOD CO Cabin CO",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI/Diploma/BE-all Stream any graduate"
+        "qualification": "10/12/ITI/Diploma/BE-all Stream any graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Solar Intern Pvt Ltd. Nashik",
@@ -2067,7 +2296,8 @@
         "floor": "SP Library (Admin Building)",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree EE"
+        "qualification": "ITI , Diploma/Degree EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "TDK (EPCOS) Ltd, Nashik",
@@ -2076,7 +2306,8 @@
         "floor": "STORE CE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI , Diploma/Degree ME/EE"
+        "qualification": "ITI , Diploma/Degree ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Ujjwal Hyundai Pvt Ltd, Nashik",
@@ -2085,7 +2316,8 @@
         "floor": "Dept Library CE",
         "classroom": "-",
         "role": "",
-        "qualification": "Any Graduate, Degree, ITI, Diploma"
+        "qualification": "Any Graduate, Degree, ITI, Diploma",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Panchal Engineers India Pvt. Ltd. Nashik",
@@ -2094,7 +2326,8 @@
         "floor": "Digital Techniques Lab TE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Creative Electronics Pvt Ltd ,Nashik",
@@ -2103,7 +2336,8 @@
         "floor": "Network Internet Lab IF",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Abhi Industries Pvt Ltd, Nashik",
@@ -2112,7 +2346,8 @@
         "floor": "Software Testing Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shivay Engineering Pvt Ltd, nashik",
@@ -2121,7 +2356,8 @@
         "floor": "Microprocessor Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Locus Systems Pvt Ltd, Nashik",
@@ -2130,7 +2366,8 @@
         "floor": "Network Internet Lab CO",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shivkrupa Industries Pvt Ltd, Nashik",
@@ -2139,7 +2376,8 @@
         "floor": "Digital Techniques Lab TE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shrishailam Automation Pvt Ltd, Nashik",
@@ -2148,7 +2386,8 @@
         "floor": "Digital Techniques Lab TE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MSKH Seating India Pvt. Ltd. Nashik",
@@ -2157,7 +2396,8 @@
         "floor": "Programming Lab IF",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Kranti Industries Pvt Ltd, Nashik",
@@ -2166,7 +2406,8 @@
         "floor": "FS-Lab-213",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Shweta Print Pack Pvt. Ltd. Nashik",
@@ -2175,7 +2416,8 @@
         "floor": "FS-Lab-212",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Sanyog Rubber Pvt. Ltd. Nashik",
@@ -2184,7 +2426,8 @@
         "floor": "FS-Lab-209",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, , Any Graduate"
+        "qualification": "ITI, Diploma, , Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Dynamic Prestress India Pvt. Ltd., Nashik",
@@ -2193,7 +2436,8 @@
         "floor": "Programming Lab CO",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Veevaa Tools Pvt. Ltd. Nashik",
@@ -2202,7 +2446,8 @@
         "floor": "CO Store CO",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree-ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree-ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Spack Automotives Pvt. Ltd. Nashik",
@@ -2211,7 +2456,8 @@
         "floor": "Multimedia Lab -314",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Ennergy Experts Technologies Pvt. Ltd. Pune",
@@ -2220,7 +2466,8 @@
         "floor": "Drawing Hall ME",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "MIDC SDC Nashik eduspark International Pvt. Ltd.",
@@ -2229,7 +2476,8 @@
         "floor": "CLASSROOM 107 EE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, food processing course, RAC Course, B.com, M.\n com, MBA Finance, Tally Course, Any Graduate, Bsc. Agri,"
+        "qualification": "ITI, Diploma, food processing course, RAC Course, B.com, M.\n com, MBA Finance, Tally Course, Any Graduate, Bsc. Agri,",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "M D Auto Components Pvt.Ltd",
@@ -2238,7 +2486,8 @@
         "floor": "Language Lab APS",
         "classroom": "-",
         "role": "",
-        "qualification": "BSC, Degree, Diploma"
+        "qualification": "BSC, Degree, Diploma",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Brahma Engg. Pvt Ltd , Nashik",
@@ -2247,7 +2496,8 @@
         "floor": "ME Workshop Toyota Lab",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma, BE Civil Engg"
+        "qualification": "Diploma, BE Civil Engg",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "SPARK SOLUTIONS pvt ltd, Nashik",
@@ -2256,7 +2506,8 @@
         "floor": "Chemistry Lab APS",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/Diploma, Degree- ME/EE-, ITI"
+        "qualification": "10/12/Diploma, Degree- ME/EE-, ITI",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Saiprasad Industrial Services",
@@ -2265,7 +2516,8 @@
         "floor": "Physics Lab APS",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma, Degree, Any Graduate"
+        "qualification": "Diploma, Degree, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Huf India Pvt,Ltd Pune",
@@ -2274,7 +2526,8 @@
         "floor": "HOD Mathematics IF",
         "classroom": "-",
         "role": "",
-        "qualification": "10/12/ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "10/12/ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Siemen Ltd, Ch, Sambhaji Nagar",
@@ -2283,7 +2536,8 @@
         "floor": "Board Room Admin",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree ME/EE"
+        "qualification": "ITI, Diploma, Degree ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "ABHIJEET TECHNOPLAST Pvt Ltd, Nashik",
@@ -2292,7 +2546,8 @@
         "floor": "Multimedia Lab -315",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, ME/EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "INDIAN TOOL - BIRLA PRECISION Ltd, NASHIK",
@@ -2301,7 +2556,8 @@
         "floor": "SOS-Store- I st Floor -SP",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, B.E-ME/EE"
+        "qualification": "ITI, Diploma, B.E-ME/EE",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "ARB Industries Pvt. Ltd. Nashik",
@@ -2310,7 +2566,8 @@
         "floor": "HOD IF Cabin",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI, Diploma, Degree, EE, Any Graduate"
+        "qualification": "ITI, Diploma, Degree, EE, Any Graduate",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "SKF India Pvt. Ltd. Pune",
@@ -2319,7 +2576,8 @@
         "floor": "217- Admin-SP",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma ME/EE, ITI"
+        "qualification": "Diploma ME/EE, ITI",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Dashtek Engineers, Nashik",
@@ -2328,7 +2586,8 @@
         "floor": "219- Admin-SP",
         "classroom": "-",
         "role": "",
-        "qualification": "Diploma, ITI"
+        "qualification": "Diploma, ITI",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "EKAM Venture Pvt Ltd, Nashik",
@@ -2337,7 +2596,8 @@
         "floor": "Measurement Lab EE",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI,Diploma /B.E-Civil"
+        "qualification": "ITI,Diploma /B.E-Civil",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     },
     {
         "name": "Indusculp Autocomp Pvt'Ltd.",
@@ -2346,6 +2606,7 @@
         "floor": "Record Room",
         "classroom": "-",
         "role": "",
-        "qualification": "ITI/Diploma/Degree"
+        "qualification": "ITI/Diploma/Degree",
+        "map_url":"https://www.google.com/maps/dir/?api=1&destination=19.9632530,73.6650997&travelmode=walking"
     }
 ]
